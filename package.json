@@ -1,0 +1,23 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "local weather application",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omamazainab/Local-Weather-App.git"
+  },
+  "keywords": [
+    "javascript",
+    "weather-app"
+  ],
+  "author": "Omama Zainab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omamazainab/Local-Weather-App/issues"
+  },
+  "homepage": "https://github.com/omamazainab/Local-Weather-App#readme"
+}
